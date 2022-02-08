@@ -26,4 +26,3 @@ for i, mensagem in enumerate(contatos['Mensagem']):
     time.sleep(10)
     #navegador.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[2]')[0].send_keys(Keys.ENTER)
     time.sleep(10)
-    
